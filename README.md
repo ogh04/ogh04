@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Omar Ghilan 👋
 
-<!--
-**ogh04/ogh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's student in **AI and Digital Computing**, focused on building practical and portfolio-ready AI projects.
 
-Here are some ideas to get you started:
+My interests include **Retrieval-Augmented Generation (RAG)**, **machine learning**, **natural language processing**, **computer vision**, and **data-driven applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming complex ideas into clean, working systems using Python, FastAPI, databases, vector search, and modern AI tools.
+
+## 🚀 Currently Building
+
+- **DocuMind AI** — A multilingual RAG platform for intelligent document understanding.
+- **MarketMind AI** — An AI-powered market research and insight assistant.
+
+## 🛠 Tech Interests
+
+Python · FastAPI · PostgreSQL · Qdrant · Docker · RAG · LLMs · NLP · Machine Learning · Computer Vision
